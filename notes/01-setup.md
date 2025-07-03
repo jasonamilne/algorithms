@@ -1,4 +1,4 @@
-# Algorithm
+# Algorithms
 Algorithm
 - Input
 - Output
